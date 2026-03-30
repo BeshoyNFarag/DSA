@@ -1,4 +1,4 @@
-/*Exercise 5 — First Negative Number
+package com.dsa.linear_search;/*Exercise 5 — First Negative Number
 Task: Return the first negative number.
 // Input: [3, 5, -2, 7]
 // Output: -2*/

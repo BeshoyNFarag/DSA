@@ -1,4 +1,4 @@
-/*Exercise 3 — Count Occurrences
+package com.dsa.linear_search;/*Exercise 3 — Count Occurrences
 Task: Count how many times a number appears.
 // Input: [2, 3, 2, 4, 2], target = 2
 // Output: 3*/

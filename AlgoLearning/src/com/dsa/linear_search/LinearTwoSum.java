@@ -1,4 +1,4 @@
-/*Exercise 6 (Important) — Two Sum (Brute Force)
+package com.dsa.linear_search;/*Exercise 6 (Important) — Two Sum (Brute Force)
 Task: Find indices of two numbers that add up to target.
 // Input: [2, 7, 11, 15], target = 9
 // Output: [0, 1]*/

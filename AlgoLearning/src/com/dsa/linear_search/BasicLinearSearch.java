@@ -1,4 +1,4 @@
-/*Part 1 — Linear Search Practice (O(n))
+package com.dsa.linear_search;/*Part 1 — Linear Search Practice (O(n))
 Exercise 1 — Basic Search
 
 Task: Return the index of a target element.

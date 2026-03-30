@@ -1,4 +1,4 @@
-/*Exercise 7 — Find All Indices of Target
+package com.dsa.linear_search;/*Exercise 7 — Find All Indices of Target
 Task: Return all positions of a target.
 // Input: [1, 2, 3, 2, 4], target = 2
 // Output: [1, 3]

@@ -1,4 +1,4 @@
-/*Task: Return true if element exists, else false.
+package com.dsa.linear_search;/*Task: Return true if element exists, else false.
 // Input: [1, 4, 6, 9], target = 3
 // Output: false
 
